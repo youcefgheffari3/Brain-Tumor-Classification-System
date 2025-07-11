@@ -1,6 +1,4 @@
-Here is the complete `README.md` content in markdown format, ready to paste directly:
 
-```markdown
 # 🧠 Brain Tumor Classification using Deep Learning
 
 This repository contains the code and resources for a project focused on classifying brain tumors from MRI scans using deep learning. The core of this project is the implementation and comparison of various Convolutional Neural Network (CNN) architectures built with TensorFlow and Keras. The models are trained to accurately predict one of four categories: **Glioma Tumor, Meningioma Tumor, No Tumor,** or **Pituitary Tumor**.
