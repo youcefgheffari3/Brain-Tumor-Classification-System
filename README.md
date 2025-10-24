@@ -22,25 +22,8 @@ The models were trained on the **Brain Tumor MRI Dataset**, which is publicly av
 - **Source**: Brain Tumor MRI Dataset on Kaggle  
 - **Content**: The dataset consists of thousands of MRI images.  
 - **Classes**:
-  - Glioma Tumor  
-  - Meningioma Tumor  
+  - Tumor   
   - No Tumor  
-  - Pituitary Tumor  
-- **Structure**:
-```
-
-/Training
-/glioma
-/meningioma
-/no\_tumor
-/pituitary
-/Testing
-/glioma
-/meningioma
-/no\_tumor
-/pituitary
-
-```
 
 ---
 
